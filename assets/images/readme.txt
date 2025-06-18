@@ -1,0 +1,1 @@
+this directory is for everything media related, like images, music, videos, etc
